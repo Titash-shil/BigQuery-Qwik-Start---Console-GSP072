@@ -1,6 +1,5 @@
 # BigQuery: Qwik Start - Console || [GSP072](https://www.cloudskillsboost.google/focuses/1145?parent=catalog) ||
 
-## Solution [here](https://youtu.be/vKRQHIPFkng)
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
